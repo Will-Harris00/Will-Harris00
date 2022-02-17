@@ -7,11 +7,11 @@
 ```JavaScript
 let skills = {
     areasOfInterest: ["Full Stack", "Machine Learning", "Cryptography", "Cyber Security"],
-    advanced: ["Python", "Java",  "C", "C++", "Django", "PHP", "JavaScript", "SQL", "HTML", "CSS"],
+    advanced: ["Python", "TensorFlow", "Java", "Golang", "C", "C++", "Django", "PHP", "JavaScript", "SQL", "HTML", "CSS"],
     proficient: ["Flask", "Tkinter", "PyQt"],
-    intermediate: ["Haskell", "Prolog"],
+    intermediate: ["Haskell", "Prolog", "R"],
     elementary: ["Objective-C"],
-    learning: ["Swift", "C#", "TensorFlow"]
+    learning: ["Swift", "C#"]
 };
 
 const hobbies = {
@@ -29,6 +29,8 @@ const hobbies = {
 <a href="https://docs.oracle.com/en/java/"><img alt="Java" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/java.png"></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="Python" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/c.png"></a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="Python" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/c++.png"></a>
+<a href="https://go.dev"><img alt="Golang" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/golang.png"></a>
+<a href="https://www.r-project.org/about.html"><img alt="R" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/r.png"></a>
 <a href="https://www.haskell.org/"><img alt="Haskell" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/haskell.png"></a>
 <a href="https://www.swi-prolog.org/"><img alt="Prolog" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/prolog.png"></a>
 </br>
@@ -56,6 +58,7 @@ const hobbies = {
 <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/intellij.png"></a>
 <a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/pycharm.png"></a>
 <a href="https://www.jetbrains.com/phpstorm/"><img alt="PhpStorm" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/phpstorm.png"></a>
+<a href="https://www.jetbrains.com/goland/"><img alt="GoLand" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/goland.png"></a>
 <a href="https://www.jetbrains.com/clion/">
 <img alt="CLion" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/clion.png"></a>
 <a href="https://www.jetbrains.com/rider/">
