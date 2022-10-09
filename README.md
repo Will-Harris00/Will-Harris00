@@ -1,4 +1,4 @@
-## Hi there, I'm [Will Harris][linkedin] <img src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/hi.gif" height="50">
+## Hi there, I'm [Will Harris][linkedin]
 ### I'm a Computer Science Undergraduate from the UK.
 
 ---
@@ -6,8 +6,8 @@
 ## Experience
 ```JavaScript
 let skills = {
-    areasOfInterest: ["Full Stack", "Machine Learning", "Cryptography", "Cyber Security"],
-    advanced: ["Python", "TensorFlow", "Java", "Golang", "C", "C++", "Django", "PHP", "JavaScript", "SQL", "HTML", "CSS"],
+    areasOfInterest: ["Full Stack", "Machine Learning", "Cryptography", "Cyber Security", "ACO", "DSA"],
+    advanced: ["ReactJS", "MatLab", "Python", "TensorFlow", "Java", "Golang", "C", "C++", "Django", "PHP", "JavaScript", "SQL", "HTML", "CSS"],
     proficient: ["Flask", "Tkinter", "PyQt"],
     intermediate: ["Haskell", "Prolog", "R"],
     elementary: ["Objective-C"],
@@ -33,9 +33,11 @@ const hobbies = {
 <a href="https://www.r-project.org/about.html"><img alt="R" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/r.png"></a>
 <a href="https://www.haskell.org/"><img alt="Haskell" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/haskell.png"></a>
 <a href="https://www.swi-prolog.org/"><img alt="Prolog" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/prolog.png"></a>
+<a href="https://uk.mathworks.com/products/matlab.html"><img alt="MatLab" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/matlab.png"></a>
 </br>
 
 ### Web Technologies
+<a href="https://reactjs.org"><img alt="ReactJS" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/reactjs.png"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/PHP"><img alt="PHP" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/php.png"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/javascript.png"></a>
 <a href="https://dev.mysql.com/"><img alt="MySQL" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/mysql.png"></a>
@@ -78,4 +80,4 @@ const hobbies = {
 <img align="center" alt="Will's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Will-Harris00&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will-Harris00&layout=compact&theme=react">
 
-[linkedin]: https://www.linkedin.com/in/will-harris-144a44191/
+[linkedin]: https://www.linkedin.com/in/wjph/
