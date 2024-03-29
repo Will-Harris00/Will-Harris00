@@ -36,15 +36,15 @@ const hobbies = {
 
 ## Languages and Tools
 ### Programming Languages
-<a href="https://www.python.org/"><img alt="Python" width="60px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/python.png" style="vertical-align: middle;"></a>
-<a href="https://docs.oracle.com/en/java/"><img alt="Java" width="60px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/java.png" style="vertical-align: middle;"></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="Python" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/c.png" style="vertical-align: middle;"></a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="Python" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/c++.png" style="vertical-align: middle;"></a>
-<a href="https://go.dev"><img alt="Golang" width="80px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/golang.png" style="vertical-align: middle;"></a>
-<a href="https://www.r-project.org/about.html"><img alt="R" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/r.png" style="vertical-align: middle;"></a>
-<a href="https://www.haskell.org/"><img alt="Haskell" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/haskell.png" style="vertical-align: middle;"></a>
-<a href="https://www.swi-prolog.org/"><img alt="Prolog" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/prolog.png" style="vertical-align: middle;"></a>
-<a href="https://uk.mathworks.com/products/matlab.html"><img alt="MatLab" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/matlab.png" style="vertical-align: middle;"></a>
+<a href="https://www.python.org/"><img alt="Python" width="65px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/python.png" style="vertical-align: middle;"></a>
+<a href="https://docs.oracle.com/en/java/"><img alt="Java" width="65px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/java.png" style="vertical-align: middle;"></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="Python" width="65px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/c.png" style="vertical-align: middle;"></a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="Python" width="65px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/c++.png" style="vertical-align: middle;"></a>
+<a href="https://go.dev"><img alt="Golang" width="65px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/golang.png" style="vertical-align: middle;"></a>
+<a href="https://www.r-project.org/about.html"><img alt="R" width="65px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/r.png" style="vertical-align: middle;"></a>
+<a href="https://www.haskell.org/"><img alt="Haskell" width="65px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/haskell.png" style="vertical-align: middle;"></a>
+<a href="https://www.swi-prolog.org/"><img alt="Prolog" width="65px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/prolog.png" style="vertical-align: middle;"></a>
+<a href="https://uk.mathworks.com/products/matlab.html"><img alt="MatLab" width="65px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/matlab.png" style="vertical-align: middle;"></a>
 </br>
 
 ### Web Technologies
