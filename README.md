@@ -1,17 +1,28 @@
 ## Hi there, I'm [Will Harris][linkedin]
-### I'm a Computer Science Undergraduate from the UK.
+### I've just started out in my career. Here's a little summary:
+As a Quant Analytics Engineering Analyst at BlackRock Aladdin Financial Engineering in London, I blend software engineering with financial modeling to advance the Aladdin platform's analytics, focusing on Fundamental Risk for Equities. My work involves developing Java applications, utilizing Python for research, and enhancing analytics delivery for insightful equity risk analysis. Through collaboration with the research team, we refine financial models for strategic decision-making and technological evolution.
 
 ---
 
 ## Experience
 ```JavaScript
 let skills = {
-    areasOfInterest: ["Full Stack", "Machine Learning", "Cryptography", "Cyber Security", "ACO", "DSA"],
-    advanced: ["ReactJS", "MatLab", "Python", "TensorFlow", "Java", "Golang", "C", "C++", "Django", "PHP", "JavaScript", "SQL", "HTML", "CSS"],
-    proficient: ["Flask", "Tkinter", "PyQt"],
+    areasOfInterest: [
+        "Financial Modelling", "Data Analysis", "Statistical Modeling", 
+        "Predictive Analytics", "Algorithmic Trading", "Risk Management",
+        "Data Structures and Algorithms", "Machine Learning", "Cryptography",
+        "Full Stack Development", "Cyber Security"
+    ],
+    advanced: [
+        "Java", "Python", "C++", "C", "MatLab", "Go", "SQL",
+        "TensorFlow", "Pandas", "NumPy", "SciPy", "MatPlotLib",
+        "Sklearn", "Django", "Flask", "JavaScript", "React",
+    ],
+    proficient: ["Django", "Flask", "JavaScript", "HTML", "CSS", "PHP", "Excel"],
     intermediate: ["Haskell", "Prolog", "R"],
-    elementary: ["Objective-C"],
-    learning: ["Swift", "C#"]
+    elementary: ["Rust", "C#", "Swift"],
+    learning: ["Quantitative Analysis", "Cloud Computing for Finance", "Terraform"],
+    exploring: ["Machine Learning in Finance"]
 };
 
 const hobbies = {
@@ -44,6 +55,7 @@ const hobbies = {
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="html" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/html.png"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="css" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/css.png"></a>
 <a href="https://www.json.org/json-en.html"><img alt="JSON" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/json.png"></a>
+<a href="https://www.docker.com"><img alt="Docker" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/docker.png"></a>
 </br>
 
 ### Frameworks & Miscellaneous
