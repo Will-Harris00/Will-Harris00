@@ -15,7 +15,7 @@ let skills = {
     ],
     advanced: [
         "Java", "Python", "C++", "C", "MatLab", "Go", "SQL",
-        "TensorFlow", "Pandas", "NumPy", "SciPy", "MatPlotLib",
+        "Tensorflow", "Pandas", "Numpy", "Scipy", "Matplotlib",
         "Sklearn", "Django", "Flask", "JavaScript", "React",
     ],
     proficient: ["Django", "Flask", "JavaScript", "HTML", "CSS", "PHP", "Excel"],
@@ -36,11 +36,11 @@ const hobbies = {
 
 ## Languages and Tools
 ### Programming Languages
-<a href="https://www.python.org/"><img alt="Python" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/python.png"></a>
-<a href="https://docs.oracle.com/en/java/"><img alt="Java" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/java.png"></a>
+<a href="https://www.python.org/"><img alt="Python" width="60px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/python.png"></a>
+<a href="https://docs.oracle.com/en/java/"><img alt="Java" width="60px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/java.png"></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="Python" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/c.png"></a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="Python" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/c++.png"></a>
-<a href="https://go.dev"><img alt="Golang" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/golang.png"></a>
+<a href="https://go.dev"><img alt="Golang" width="75px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/golang.png"></a>
 <a href="https://www.r-project.org/about.html"><img alt="R" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/r.png"></a>
 <a href="https://www.haskell.org/"><img alt="Haskell" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/haskell.png"></a>
 <a href="https://www.swi-prolog.org/"><img alt="Prolog" width="50px" src="https://raw.githubusercontent.com/Will-Harris00/Will-Harris00/master/assets/prolog.png"></a>
